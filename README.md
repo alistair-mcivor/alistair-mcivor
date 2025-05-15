@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a QA / software tester.
+I'm a QA / software tester interested in learning more about UI and API test automation.
 
 <!--
 **alistair-mcivor/alistair-mcivor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a QA / software tester interested in learning more about UI and API test automation.
+I'm a QA / software tester.
+
+I'm interested in learning more about UI and API test automation, especially using Cypress, Playwright, Postman and RestAssured.
 
 <!--
 **alistair-mcivor/alistair-mcivor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
